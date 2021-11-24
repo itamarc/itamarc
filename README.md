@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
-I have selected some of my projects to highlight in a portifolio and you can see them in
+I have selected some of my projects to highlight in a portfolio and you can see them in
 <a href="/" alt="github" target="_blank">https://itamarc.github.io</a>
 
 <table border="0" cellspacing="0" style="border: none;"><tr>

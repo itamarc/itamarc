@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Itamar Carvalho
 
-<!--
-**itamarc/itamarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/itamarc" alt="linkedin" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+</a>
 
-Here are some ideas to get you started:
+I have selected some of my projects to highlight in a portifolio and you can see them in
+<a href="/" alt="github" target="_blank">https://itamarc.github.io</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itamarc&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+---
+<span style="font-size: smaller;">Just because I'm curious about how many visits this page will get:</span><br/>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=itamarc.itamarc)
